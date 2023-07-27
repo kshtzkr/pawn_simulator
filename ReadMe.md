@@ -10,7 +10,7 @@ To install and set up the Pawn Simulator application, follow these steps:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pawn-simulator.git
+git clone https://github.com/kshtzkr/pawn_simulator.git
 ```
 ### Change directory to the application folder:
 ```bash
